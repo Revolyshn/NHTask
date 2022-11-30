@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F7yuwPVxR7DWIDMhOlig4ZRd1fm6s0PwNzMd0OF0K9Q=",
+  "Source": "NHService",
+  "BasePath": "_content/NHService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
