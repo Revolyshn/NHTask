@@ -16,7 +16,6 @@ public class DataExchangerController : Controller
     {
         var reader = new StreamReader(Request.Body);
         var message = await reader.ReadToEndAsync();
-
         _storageController.WriteToList(message);
     }
 
