@@ -9,13 +9,17 @@ using Newtonsoft.Json;
 class Programs 
 {
     private static SerialPort? _port; 
+    
     static bool _continue;
+    
     private static readonly HttpClient client = new HttpClient();
+    
     [STAThread] 
     static void Main(string[] args)
     {
         _port = new SerialPort();
         _port.PortName = Console.ReadLine() ?? string.Empty;
+        
         StringComparer stringComparer = StringComparer.OrdinalIgnoreCase;
 
         _port.Open();
@@ -33,7 +37,6 @@ class Programs
             if (stringComparer.Equals("quit", message))
             {
                 _continue = false;
-                
             }
         }
         _port.Close();
