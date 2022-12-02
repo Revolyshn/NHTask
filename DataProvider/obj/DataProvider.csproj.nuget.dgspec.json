@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\encou\\RiderProjects\\DataProvider\\DataProvider\\DataProvider.csproj": {}
+    "C:\\Users\\Professional\\RiderProjects\\NHTask\\DataProvider\\DataProvider.csproj": {}
   },
   "projects": {
-    "C:\\Users\\encou\\RiderProjects\\DataProvider\\DataProvider\\DataProvider.csproj": {
+    "C:\\Users\\Professional\\RiderProjects\\NHTask\\DataProvider\\DataProvider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\encou\\RiderProjects\\DataProvider\\DataProvider\\DataProvider.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\RiderProjects\\NHTask\\DataProvider\\DataProvider.csproj",
         "projectName": "DataProvider",
-        "projectPath": "C:\\Users\\encou\\RiderProjects\\DataProvider\\DataProvider\\DataProvider.csproj",
-        "packagesPath": "C:\\Users\\encou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\encou\\RiderProjects\\DataProvider\\DataProvider\\obj\\",
+        "projectPath": "C:\\Users\\Professional\\RiderProjects\\NHTask\\DataProvider\\DataProvider.csproj",
+        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Professional\\RiderProjects\\NHTask\\DataProvider\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\encou\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
